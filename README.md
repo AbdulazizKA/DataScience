@@ -1,5 +1,2 @@
 # DataScience
 
-hello 
-
-next modification 
